@@ -1,0 +1,24 @@
+C:\Users\mbez\Documents\Visual Studio 2012\Projects\BadCodeTestApp\BadCodeTestApp\bin\Debug\BadCodeTestApp.exe.config
+C:\Users\mbez\Documents\Visual Studio 2012\Projects\BadCodeTestApp\BadCodeTestApp\bin\Debug\BadCodeTestApp.exe
+C:\Users\mbez\Documents\Visual Studio 2012\Projects\BadCodeTestApp\BadCodeTestApp\bin\Debug\BadCodeTestApp.pdb
+C:\Users\mbez\Documents\Visual Studio 2012\Projects\BadCodeTestApp\BadCodeTestApp\obj\Debug\BadCodeTestApp.csprojResolveAssemblyReference.cache
+C:\Users\mbez\Documents\Visual Studio 2012\Projects\BadCodeTestApp\BadCodeTestApp\obj\Debug\BadCodeTestApp.exe
+C:\Users\mbez\Documents\Visual Studio 2012\Projects\BadCodeTestApp\BadCodeTestApp\obj\Debug\BadCodeTestApp.pdb
+D:\РС\BadCodeTestApp_final\BadCodeTestApp\bin\Debug\BadCodeTestApp.exe.config
+D:\РС\BadCodeTestApp_final\BadCodeTestApp\obj\Debug\BadCodeTestApp.exe
+D:\РС\BadCodeTestApp_final\BadCodeTestApp\obj\Debug\BadCodeTestApp.pdb
+D:\РС\BadCodeTestApp_final\BadCodeTestApp\bin\Debug\BadCodeTestApp.exe
+D:\РС\BadCodeTestApp_final\BadCodeTestApp\bin\Debug\BadCodeTestApp.pdb
+D:\РС\BadCodeTestApp_final\BadCodeTestApp\obj\Debug\BadCodeTestApp.csprojResolveAssemblyReference.cache
+D:\РС\BadCodeTestApp_final\BadCodeTestApp\bin\Debug\NLog.config
+D:\РС\BadCodeTestApp_final\BadCodeTestApp\bin\Debug\NLog.dll
+D:\РС\BadCodeTestApp_final\BadCodeTestApp\bin\Debug\NLog.xml
+D:\РС\BadCodeTestApp_final - копия\BadCodeTestApp\bin\Debug\BadCodeTestApp.exe.config
+D:\РС\BadCodeTestApp_final - копия\BadCodeTestApp\obj\Debug\BadCodeTestApp.exe
+D:\РС\BadCodeTestApp_final - копия\BadCodeTestApp\obj\Debug\BadCodeTestApp.pdb
+D:\РС\BadCodeTestApp_final - копия\BadCodeTestApp\bin\Debug\NLog.config
+D:\РС\BadCodeTestApp_final - копия\BadCodeTestApp\bin\Debug\BadCodeTestApp.exe
+D:\РС\BadCodeTestApp_final - копия\BadCodeTestApp\bin\Debug\BadCodeTestApp.pdb
+D:\РС\BadCodeTestApp_final - копия\BadCodeTestApp\bin\Debug\NLog.dll
+D:\РС\BadCodeTestApp_final - копия\BadCodeTestApp\bin\Debug\NLog.xml
+D:\РС\BadCodeTestApp_final - копия\BadCodeTestApp\obj\Debug\BadCodeTestApp.csprojResolveAssemblyReference.cache

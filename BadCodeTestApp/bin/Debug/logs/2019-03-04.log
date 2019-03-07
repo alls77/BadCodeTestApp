@@ -1,0 +1,6 @@
+2019-03-04 16:39:08.4320 | TRACE | BadCodeTestApp.Program | trace message
+2019-03-04 16:39:08.5820 | DEBUG | BadCodeTestApp.Program | debug message
+2019-03-04 16:39:08.5820 | INFO | BadCodeTestApp.Program | info message
+2019-03-04 16:39:08.5820 | WARN | BadCodeTestApp.Program | warn message
+2019-03-04 16:39:08.5880 | ERROR | BadCodeTestApp.Program | error message
+2019-03-04 16:39:08.5880 | FATAL | BadCodeTestApp.Program | fatal message
